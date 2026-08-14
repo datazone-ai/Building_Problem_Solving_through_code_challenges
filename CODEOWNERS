@@ -1,0 +1,11 @@
+# Entire repository
+* @abiolaks @datazone-ai/team_x
+
+# Python source code
+*.py @abiolaks
+
+# Data science code
+src/ @abiolaks @datazone-ai/team_x
+
+# Documentation
+docs/ @datazone-ai/team_x
