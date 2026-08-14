@@ -1,11 +1,11 @@
 # Entire repository
-* @abiolaks @team_x
+* @abiolaks
 
 # Python source code
 *.py @abiolaks
 
 # Data science code
-src/ @abiolaks @team_x
+src/ @abiolaks
 
 # Documentation
-docs/ @team_x
+# docs/ 
