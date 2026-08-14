@@ -5,7 +5,7 @@
 *.py @abiolaks
 
 # Data science code
-src/ @abiolaks @datazone-ai/team_x
+src/ @abiolaks @team_x
 
 # Documentation
-docs/ @datazone-ai/team_x
+docs/ @team_x
