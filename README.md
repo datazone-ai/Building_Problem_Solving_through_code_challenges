@@ -1,6 +1,6 @@
 # Building_Problem_Solving_through_code_challenges
 What if AI stop working - can you still think logically and write programs. 
-#### Find out how well you know, remember and understand the basic programming concept.
+* Find out how well you know, remember and understand the basic programming concept.
 <br>
 ## Test yourself
 * Try this challenges. It start simple and build up with increasing level of difficulty. 
