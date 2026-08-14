@@ -4,10 +4,10 @@ What if AI stop working - can you still think logically and write programs.
 <br>
 ## Test yourself
 * Try this challenges. It start simple and build up with increasing level of difficulty. 
-* Testing you understand of program construct, logically reasoning and thought process.
+* Testing your understanding of fundamental program construct, logical reasoning and thought process.
 
-This will help you build 
-* problem solving skill and help you build critcal thinking
-* Structure approach to things and Analysis.
+This will help you build-
+* Problem solving and help you build critcal thinking skills.
+* Structure approach to and Analysis to problem solving.
 <br>
-You will learn this through hands on code challenge
+You will learn this through hands on code challenges.
