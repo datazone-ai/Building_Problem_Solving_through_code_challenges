@@ -13,16 +13,6 @@ To keep collaboration smooth and code quality high, please follow these guidelin
 - Open a Pull Request (PR) into `main`.
 - PRs must be reviewed and approved before merge (as enforced by branch protection).
 
-## Code Owners & Reviews
-
-This repository uses `CODEOWNERS` to automatically request reviews.
-
-Current default code owners:
-- `@abiolaks`
-- `@datazone-ai/team_x`
-
-When you open a PR, code owners may be automatically assigned as reviewers.
-
 ## Commit Messages
 
 Use clear, descriptive commit messages. Conventional-style prefixes are recommended:
