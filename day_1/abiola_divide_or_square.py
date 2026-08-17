@@ -24,7 +24,7 @@ from typing import Union
 
 def divide_or_square(number: Union[int, float]) -> Union[int, float]:
     if number % 5:
-        return round(math.sqrt(numbmer), 2)
+        return round(math.sqrt(number), 2)
     else:
         return number % 5
 
