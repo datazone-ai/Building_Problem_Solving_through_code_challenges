@@ -1,0 +1,12 @@
+'''
+FUNCTION convert_add(string_list)
+total = 0
+for each string_list:
+num = convert string to integer
+total =total+num
+return total
+'''
+
+"""
+a list was used because it was required for an ordered colloction of elements. 
+"""
