@@ -1,0 +1,17 @@
+START
+
+DEFINE function register_check(register)
+
+    SET count to 0
+
+    FOR each student in register
+        IF student's status is "yes"
+            INCREASE count by 1
+        END IF
+    END FOR
+
+    RETURN count
+
+END FUNCTION
+
+END
