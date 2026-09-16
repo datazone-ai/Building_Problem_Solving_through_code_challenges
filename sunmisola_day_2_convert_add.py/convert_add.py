@@ -2,8 +2,7 @@ def convert_add(string_list):
     total = 0 
     for string in string_list:
         num = int(string)
-            
-    total = total + num
+        total = total + num
     return total
 
 
